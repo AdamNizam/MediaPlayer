@@ -3,4 +3,5 @@
     <string name="btn_text_play">Play</string>
     <string name="text_mediaplayer">Test Mediaplayer</string>
     <string name="btn_text_stop">Stop</string>
+    <string name="choose_audio_file">Choose Audio File</string>
 </resources>
